@@ -1,0 +1,27 @@
+{
+  "name": "icytail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gitbook serve --open",
+    "build": "gitbook build",
+    "i": "gitbook install",
+    "deploy": "gh-pages -d _book"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icytailu/icytail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icytailu/icytail/issues"
+  },
+  "homepage": "https://github.com/icytailu/icytail#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
