@@ -10,7 +10,7 @@
   },
   "links": {
     "sidebar": {
-      "Home": "https://google.com"
+      "Home": "http://icetail.cn/"
     }
   },
 
@@ -18,14 +18,10 @@
     "-sharing",
     "splitter",
     "github",
-    "anchors",
-    "sectionx",
+    "ghcomment",
     "-search",
     "search-plus",
-    "anchor-navigation-ex",
-    "favicon",
-    "copy-code-button",
-    "toggle-chapters",
+    "chapter-fold",
     "theme-comscore"
   ],
   "pluginsConfig": {
@@ -35,9 +31,9 @@
     "sectionx": {
       "tag": "b"
     },
-    "favicon": {
-      "shortcut": "favicon.ico",
-      "bookmark": "favicon.ico"
+    "ghcomment": {
+      "owner": "icytailu",
+      "repo": "https://github.com/icytailu/icytail/issues"
     }
   }
 }

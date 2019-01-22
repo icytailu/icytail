@@ -20,7 +20,29 @@
     "url": "https://github.com/icytailu/icytail/issues"
   },
   "homepage": "https://github.com/icytailu/icytail#readme",
-  "dependencies": {},
+  "dependencies": {
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-bandwidth-toggle-chapters": "0.0.4",
+    "gitbook-plugin-chapter-fold": "0.0.4",
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-collapsible-menu": "^1.0.3",
+    "gitbook-plugin-collapsible-menu-ex": "^1.0.4",
+    "gitbook-plugin-exercises": "^3.0.0",
+    "gitbook-plugin-expandable-chapters-interactive": "^0.1.0",
+    "gitbook-plugin-favicon": "0.0.2",
+    "gitbook-plugin-folding-chapters": "0.0.9",
+    "gitbook-plugin-folding-chapters-2": "^0.1.2",
+    "gitbook-plugin-folding-menu": "^1.0.1",
+    "gitbook-plugin-ghcomment": "^0.1.2",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-search-plus": "^1.0.3",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-sectionx": "^3.1.0",
+    "gitbook-plugin-splitter": "0.0.8",
+    "gitbook-plugin-theme-comscore": "0.0.3",
+    "gitbook-plugin-toggle-chapters": "0.0.3"
+  },
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
