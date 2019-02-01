@@ -1,6 +1,6 @@
 ---
 home: true
 heroImage: /img/avatar.jpg
-actionText: Blog →
+actionText: Go →
 actionLink: /article/
 ---
