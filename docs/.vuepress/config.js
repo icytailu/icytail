@@ -31,11 +31,18 @@ module.exports = {
         },
         {
           title: "效率",
-          children: ["/article/effect/Mac软件", "/article/effect/最佳实践"]
+          children: [
+            "/article/effect/Mac软件",
+            "/article/effect/最佳实践",
+            "/article/effect/Vue工具"
+          ]
         },
         {
-          title: "测试哦~",
-          children: ["/article/test/test"]
+          title: "TypeScript",
+          children: [
+            "/article/typescript/item",
+            "/article/typescript/typescript基础"
+          ]
         }
       ]
     }
