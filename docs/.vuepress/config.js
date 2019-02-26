@@ -26,15 +26,14 @@ module.exports = {
           children: ["/article/front-end/ES6"]
         },
         {
-          title: "vue项目",
-          children: ["/article/vue-project/vue-standard"]
+          title: "Vue",
+          children: ["/article/vue-project/vue-standard","/article/vue-project/Vue工具"]
         },
         {
           title: "效率",
           children: [
             "/article/effect/Mac软件",
-            "/article/effect/最佳实践",
-            "/article/effect/Vue工具"
+            "/article/effect/最佳实践"
           ]
         },
         {

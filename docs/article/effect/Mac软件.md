@@ -1,6 +1,8 @@
-# Mac 软件
+# Mac 软件 快捷键
 
 > [提升你的英语水平~](https://byoungd.gitbook.io/english-level-up-tips/)
+
+## IntelliJ Idea 常用快捷键
 
 ## Mac 操作快捷键
 

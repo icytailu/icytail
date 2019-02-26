@@ -1,4 +1,4 @@
-# vue 风格
+# Vue 风格
 
 > 主要参考[vue 官网风格指南](https://cn.vuejs.org/v2/style-guide/index.html)
 
